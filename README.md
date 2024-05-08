@@ -12,5 +12,7 @@
 
 # Scripts
 
-<p>These scripts are designed to operate with yearly and monthly netCDF files. The annual average in the yearly script can be determined using the yearly netCDF files.  Seasonal scripts can be used to do monthly-based analyses using monthly netCDfs.   
+<p>These scripts (Average_season_based and Average_yearly) are designed to operate with yearly and monthly netCDF files. The annual average in the yearly script can be determined using the yearly netCDF files.  Seasonal scripts can be used to do monthly-based analyses using monthly netCDfs.   
 </p>
+
+<p> The code called Monthly_Data_Extraction_from_nc was created to extract monthly data as tifs from monthly nc.</p>
